@@ -55,17 +55,17 @@ L’objectif est de transformer des annonces en insights exploitables : compéte
 ### 1. Cloner le projet
 ```bash
 git clone https://github.com/linh-dinh-1012/job-market-explorer.git
-
+```
 ### 2. Créer un environnement virtuel
 ```bash
 python -m venv venv
 source venv/bin/activate
-
+```
 ### 3. Installer les dépendances
 ```bash
 pip install -r requirements.txt
-
-4. Lancer l’application
+```
+### 4. Lancer l’application
 ```bash
 streamlit run app.py
-
+```
