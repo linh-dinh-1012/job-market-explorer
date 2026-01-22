@@ -1,8 +1,8 @@
 # Job Market Explorer
 
-**Job Market Explorer** est une application Streamlit qui permet d’explorer, analyser et comparer le marché de l’emploi data en France à partir de sources publiques et privées (France Travail, Welcome to the Jungle).
+**Job Market Explorer** est une application qui permet d’explorer, analyser et comparer le marché de l’emploi data en France à partir de sources publiques et privées (France Travail, Welcome to the Jungle).
 
-L’objectif est de transformer des annonces en insights exploitables : compétences demandées, salaires, localisations, types de contrats, et adéquation avec un profil candidat.
+L’objectif est de transformer des annonces d’emploi en insights exploitables : compétences recherchées, niveaux de salaire, répartition géographique, types de contrats, analyse des intitulés de postes (postes similaires aux appellations différentes) et adéquation avec un profil candidat.
 
 ---
 
